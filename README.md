@@ -15,8 +15,6 @@ Now working on full stack development for the [OpenFRP](https://www.openfrp.net/
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-zhou&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-zhou&layout=compact)](https://github.com/im-zhou/github-readme-stats)
-
 
 <!--
 **im-zhou/im-zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
