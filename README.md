@@ -4,8 +4,8 @@
 My ![Visitor Count](https://profile-counter.glitch.me/im-zhou/count.svg) visitor
 
 * Primary languages: Java Vue Go
-* Personal Homepage: [https://zhou.icu/](https://zhou.icu/)
-* How to reach me: [im_zhou@qq.com](mailto:im_zhou@qq.com)
+* Personal Homepage: [https://hi.icu/](https://hi.icu/)
+* How to reach me: [im_zhou@msn.com](mailto:im_zhou@msn.com)
 * You may like [My Blog](https://blog.zhou.icu/)
 
 Interested in all things Internet
