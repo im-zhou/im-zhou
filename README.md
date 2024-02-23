@@ -10,9 +10,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/im-zhou/count.svg) visitor
 
 Interested in all things Internet
 
-Now working on full stack development for the [OpenFRP](https://www.openfrp.net/) project
-
-
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-zhou&show_icons=true&theme=onedark)
 
 
