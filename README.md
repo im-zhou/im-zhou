@@ -5,7 +5,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/im-zhou/count.svg) visitor
 
 * Primary language: Go
 * Second language: Vue TypeScript JavaScript Java Nodejs PHP
-* Personal Homepage: [https://zhou.icu/](https://zhou.icu/)
+* Personal Homepage: [https://zhou.icu/](https://zhoume.com/)
 * How to reach me: [im_zhou@msn.com](mailto:im_zhou@msn.com)
 * You may like [My Blog](https://blog.zhou.icu/)
 
